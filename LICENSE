@@ -1,0 +1,79 @@
+Grant of Copyright License, Grant of Patent License, Redistribution, Submission of Contributions, Trademarks, Disclaimer of Warranty, Limitation of Liability, Accepting Warranty or Additional Liabil contect venum daaநீ கேட்டது Apache License 2.0 ல இருக்குற முக்கியமான செக்ஷன்ஸ்-ஆ தானே? (Grant of Copyright License, Grant of Patent License, Redistribution, Submission of Contributions, Trademarks, Disclaimer of Warranty, Limitation of Liability, Accepting Warranty or Additional Liability) இதெல்லாம் Apache 2.0 லயே வர்ற செக்ஷன்ஸ் தான்.
+நான் இப்போ இதை மிக சிம்பிள் தமிழ்ல (கிட்டத்தட்ட street தமிழ்ல) சொல்லுறேன் daa, நீ சுலபமா புரிஞ்சுக்குற மாதிரி:
+1. Grant of Copyright License (பதிப்புரிமை உரிமை கொடுத்தல்)
+நீ இந்த சாஃப்ட்வேர-அ யூஸ் பண்ணலாம், காப்பி பண்ணலாம், மாத்தி (modify) பண்ணலாம், உன் ப்ராடக்ட்ல போட்டு விக்கலாம், ஷேர் பண்ணலாம்... எல்லாம் எப்பவுமே (perpetual), உலகமெங்கும், பணம் இல்லாம, ராயல்டி இல்லாம — இதுக்கு நீ permission கேட்க வேண்டியதில்லை.
+ஆனா license-ஓட rules-அ ஃபாலோ பண்ணணும்.
+2. Grant of Patent License (பேட்டன்ட் உரிமை கொடுத்தல்)
+இந்த கோட-அ யாரு contribute பண்ணாங்களோ, அவங்க தங்களோட பேட்டன்ட் (patent) இருந்தா கூட, நீ அதை யூஸ் பண்ணலாம், விற்கலாம், இம்போர்ட் பண்ணலாம் — எந்த பிரச்சனையும் இல்லை.
+(ஆனா நீ அவங்கள மேல பேட்டன்ட் கேஸ் போட்டா — உன் உரிமை ஃபினிஷ்!)
+3. Redistribution (மறுபரவல் — யாருக்காவது கொடுத்து விற்பது)
+நீ இந்த சாஃப்ட்வேர-அ அப்படியே கொடுக்கலாம், மாத்தின version-ஆ கொடுக்கலாம் (derivative work).
+ஆனா:
+
+Apache 2.0 license-அ மாத்தாம வச்சுக்கணும்
+Copyright notice + disclaimer-அ மாத்தாம இருக்கணும்
+NOTICE file இருந்தா அதையும் கொடுக்கணும்
+
+4. Submission of Contributions (நீயே கோட் சமர்ப்பிக்கும்போது)
+நீ இந்த ப்ராஜெக்ட்கு புதுசா கோட்/மாற்றம் அனுப்பினா (pull request etc.), நீ வேற எதுவும் சொல்லலேன்னா — அது தானா Apache 2.0 license-லயே வருதுனு அர்த்தம்.
+எக்ஸ்ட்ரா கண்டிஷன் போட முடியாது (unless நீ முன்னாடியே சொல்லி இருக்கணும்).
+5. Trademarks (டிரேட்மார்க்)
+Apache, அல்லது ப்ராஜெக்ட் பேரு, லோகோ — இதெல்லாம் யூஸ் பண்ணி நீ ப்ராடக்ட் ப்ரோமோட் பண்ண முடியாது (fair use தவிர).
+டிரேட்மார்க் உரிமை தனியா ப்ரொடக்ட் ஆகும்.
+6. Disclaimer of Warranty (வாரன்டி இல்லைனு சொல்லுது)
+இந்த சாஃப்ட்வேர் "AS IS" தான் — எந்த குறைபாடு இல்லை, வேலை செய்யும்னு எந்த உத்தரவாதமும் இல்லை.
+பயன்படுத்தி ஏதாவது பிரச்சனை ஆனாலும் — அவங்க பொறுப்பில்லை.
+7. Limitation of Liability (பொறுப்பு மிக குறைவு)
+எவ்ளோ பெரிய நஷ்டம் ஆனாலும் (பணம் போனாலும், பிசினஸ் டவுன் ஆனாலும்), இந்த license கொடுத்தவங்க ஒரு பைசா கூட கொடுக்க மாட்டாங்க.
+முடிஞ்ச அளவு தான் பொறுப்பு (almost zero).
+8. Accepting Warranty or Additional Liability (எக்ஸ்ட்ரா வாரன்டி நீயே கொடுக்கலாம்)
+நீ இந்த சாஃப்ட்வேர்-அ மாத்தி வித்தா, நீ வேற வாரன்டி/சப்போர்ட்/இன்சூரன்ஸ் மாதிரி எதாவது extra கொடுக்கலாம்.
+அதுக்கு பணம் வாங்கலாம். ஆனா அது உன் பொறுப்பு மட்டும் தான் — ஒரிஜினல் டெவலப்பர்ஸ்கு சம்பந்தம் இல்லை.
+இதான் முக்கியமான பாயிண்ட்ஸ் daa... முழு license-அ படிக்கணும்னா இதோ ஆஃபிஷியல் லிங்க்:
+https://www.apache.org/licenses/LICENSE-2.Interrupted50 sourcesenglishHere is a very simple English explanation of the main sections of the Apache License 2.0 that you asked about:
+1. Grant of Copyright License
+You get permanent, worldwide, free permission to:
+
+Use the software
+Copy it
+Modify it
+Include it in your own products
+Sell or distribute it
+
+No need to ask anyone for extra permission — just follow the license rules.
+2. Grant of Patent License
+If the original contributors have any patents related to the software, they give you free permission to use those patents (make, sell, import, etc.).
+But if you sue them for patent infringement, you automatically lose this patent license.
+3. Redistribution
+You can give away or sell:
+
+The original software
+Your modified version
+
+But you must:
+
+Keep the Apache 2.0 license attached
+Keep all copyright notices
+Keep the DISCLAIMER
+If there's a NOTICE file, include that too
+
+4. Submission of Contributions
+If you send new code, fixes, or changes to the project (pull request, etc.):
+→ You automatically agree to license your contribution under Apache 2.0 too (unless you clearly say something different beforehand).
+You can't add extra secret conditions later.
+5. Trademarks
+The project name, logo, "Apache", etc. are protected trademarks.
+You can use them only for fair use (like saying "built using Apache Kafka").
+You cannot use them to promote your product as if it's official without permission.
+6. Disclaimer of Warranty
+The software comes "AS IS" — no promises at all.
+It might have bugs, might not work, might break your computer — no warranty, no guarantee of any kind.
+7. Limitation of Liability
+Even if something really bad happens (you lose millions of dollars, your business dies, etc.), the original developers and contributors are not responsible.
+They owe you nothing (almost zero liability).
+8. Accepting Warranty or Additional Liability
+If you want, you can offer your customers:
+
+Extra warranties
+Support contracts
+Compensation promises
